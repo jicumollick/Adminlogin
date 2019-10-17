@@ -1,0 +1,45 @@
+body {
+	background: url("../img/background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: 'Lato', sans-serif;
+}
+
+
+.full-card {
+	width: 30%;
+	background-color: rgba(33,37,41,0.6);
+	margin-left:35%;
+	margin-top: 10%;
+	margin-bottom: 20%;
+	padding: 5%;
+
+	line-height: 2;
+	font-size: 1.2em;
+
+
+}
+
+.bw {
+	color: white;
+}
+.icon {
+	padding: 10px 23px;
+	background-color: yellow;
+}
+
+.mt{
+	margin-top: 15px;
+}
+
+.btn {
+	float: right;
+	background: yellow;
+}
+
+input[type="submit"] {
+	font-weight: bold;
+}
+div h4 strong {
+	font-size: 1.7em;
+}
